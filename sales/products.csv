@@ -1,0 +1,22 @@
+Product_ID,Product_Name,Product_Type,Description,Rating,Price,Stock,Operating_System
+P001,iPhone 15,Smartphone,Flagship Apple smartphone with A17 chip,4.8,1200,10,iOS
+P002,Samsung Galaxy S24,Smartphone,High-end Samsung phone with great display,4.7,1100,5,Android
+P003,OnePlus 12,Smartphone,Fast and smooth OxygenOS experience,4.6,950,15,Android
+P004,Pixel 9,Smartphone,Google AI features with great camera,4.5,900,8,Android
+P005,Realme GT 6,Smartphone,Performance-oriented phone with high refresh display,4.3,600,20,Android
+P011,Xiaomi 14 Ultra,Smartphone,Flagship with Leica camera system and Snapdragon 8 Gen 3,4.6,850,12,Android
+P012,Oppo Find X7 Pro,Smartphone,Premium design and strong camera performance,4.5,870,9,Android
+P013,Vivo X100 Pro,Smartphone,Excellent camera and performance balance,4.4,820,11,Android
+P014,Asus ROG Phone 8,Smartphone,Gaming powerhouse with cooling system,4.7,950,7,Android
+P015,Nokia G400,Smartphone,Budget 5G smartphone with solid battery life,4.1,250,18,Android
+P016,Moto Edge 50,Smartphone,Stylish Motorola phone with near-stock Android,4.2,500,13,Android
+P017,Infinix Zero Ultra,Smartphone,Affordable with 200MP camera and fast charging,4.3,400,22,Android
+P018,Honor Magic 6 Pro,Smartphone,Flagship-grade with strong battery and display,4.5,780,10,Android
+P019,Nothing Phone 2,Smartphone,Unique transparent design with smooth UI,4.4,700,14,Android
+P020,Redmi Note 13 Pro,Smartphone,Value-for-money with good performance,4.2,350,25,Android
+P021,POCO F6,Smartphone,Performance-focused midrange with Snapdragon 8s Gen 3,4.3,480,17,Android
+P022,Itel S24,Smartphone,Entry-level phone with large display and good battery,3.9,180,30,Android
+P023,Techno Camon 30 Premier,Smartphone,Stylish budget camera phone,4.1,230,27,Android
+P024,Samsung Galaxy A55,Smartphone,Midrange phone with great AMOLED display,4.4,550,16,Android
+P025,iPhone SE (2024),Smartphone,Compact Apple phone with A16 chip,4.5,650,11,iOS
+
