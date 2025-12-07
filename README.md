@@ -86,15 +86,15 @@ File	Description
 products.csv	Product catalog used for recommendations
 cart.json	    Tracks current user cart
 .env	       Stores secret API key (not committed)
-----
+
 <u><b>security notes:</b></u>
 -----------
 .env and session files are ignored via .gitignore.
 All session history is saved locally (/sessions/ folder).
 No external API calls beyond Groq’s secure LLM endpoint.
-------
 
- <u><b>##Future Enhancements:</b></u>
+ <u><b>Future Enhancements:</b></u>
+ --------
  Add user authentication and profile-based recommendations
  Integrate with live e-commerce APIs (Shopify/Amazon mock)
  Include sentiment-based conversational upselling
